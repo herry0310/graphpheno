@@ -34,4 +34,6 @@ We use amino acid sequence (CT encoding) as the node attributes (initial feature
 
 #### Step3: run the predict model
 > python predict.py 
->> **The prediction results were divided according to the threshold obtained by quintuple cross validation.**
+> **The prediction results were divided according to the threshold obtained by quintuple cross validation.**
+
+> **all data can be download from https://pan.baidu.com/s/1QSdgp4Cwjg44_GW_p_J3LA password: wrvg. **
