@@ -37,4 +37,4 @@ We use amino acid sequence (CT encoding) as the node attributes (initial feature
 > 
 > **The prediction results were divided according to the threshold obtained by quintuple cross validation.**
 
-> **all data can be download from https://pan.baidu.com/s/1QSdgp4Cwjg44_GW_p_J3LA password: wrvg. **
+> **all data can be download from https://pan.baidu.com/s/1MGpLSSqtxXdsFo7wNpl6Nw  password: vrp4. **
